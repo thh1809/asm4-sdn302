@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quiz Application - ASM4
 
 Full-stack Quiz Application được xây dựng với Node.js (Express + MongoDB) cho backend và React + Redux cho frontend.
@@ -330,3 +331,6 @@ ASM4 - SDN302
 ## 📄 License
 
 MIT
+=======
+# asm4-sdn302
+>>>>>>> 03b596e21d0d19fb6d8a0bf2ed55c956144f5d7a
