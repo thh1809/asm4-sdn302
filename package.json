@@ -1,0 +1,19 @@
+{
+  "name": "todo-app-asm4",
+  "version": "1.0.0",
+  "description": "Todo App cho ASM4 - SDN302",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000 -o",
+    "dev": "npx http-server -p 8000 -o"
+  },
+  "keywords": [
+    "todo",
+    "app",
+    "asm4",
+    "sdn302"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
